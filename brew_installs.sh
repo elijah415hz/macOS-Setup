@@ -9,13 +9,13 @@ brew install --cask google-chrome
 brew install --cask slack
 brew install --cask spotify
 brew install --cask docker
-brew install -cask iterm2
+brew install --cask iterm2
+brew install --cask zoom
 brew install npm
 # =========== Command line tools ============= #
 # Use Zsh
 chsh -s /bin/zsh
 
-brew install git
 npm i yarn --global
 brew tap heroku/brew && brew install heroku
 # Oh-My-Zsh
